@@ -55,3 +55,7 @@ SQLALCHEMY_DATABASE_URI = 'mysql://user:password@localhost/agence_immo'
 ```bash
 python app.py
 ```
+6. **Tester l'API**
+```bash
+curl -X GET http://localhost:5000/api/biens
+```
