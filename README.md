@@ -18,7 +18,7 @@ Bienvenue dans **Agence Immo**, une API RESTful développée avec **Flask** pour
 ## 🛠️ Stack technique
 
 - **Backend** : Python, Flask, Flask-Restful, Flask-JWT-Extended
-- **Base de données** : MySQL ou SQLite (selon config)
+- **Base de données** : MySQL
 - **ORM** : SQLAlchemy
 - **Sécurité** : JWT (JSON Web Tokens), gestion des rôles
 - **Cross-Origin** : CORS activé pour frontend React
